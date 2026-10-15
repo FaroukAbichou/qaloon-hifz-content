@@ -1,0 +1,19 @@
+{
+  "id": "qaloon-madani",
+  "kind": "mushaf",
+  "version": 1,
+  "packs": [
+    {
+      "name": "pages",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/pages.zip",
+      "sizeBytes": 694064710,
+      "sha256": "761ef71c48b80c1176fcfdbe833dd7fd6f8bd733bec10aa161684948b96ef93e"
+    }
+  ],
+  "files": [],
+  "layout": {
+    "pagesDir": "Pages",
+    "pagePattern": "page%03d.webp",
+    "pageCount": 603
+  }
+}
