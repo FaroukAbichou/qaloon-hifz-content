@@ -5,49 +5,49 @@
   "packs": [
     {
       "name": "pages-part1",
-      "url": "https://raw.githubusercontent.com/FaroukAbichou/qaloon-hifz-content/main/mushaf/qaloon-madani/v1/pages-part1.zip",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/pages-part1.zip",
       "sizeBytes": 85446270,
       "sha256": "99083947e35fddd49fa6f921d5f36076ad9ff358238a4c9e7d68239af188b095"
     },
     {
       "name": "pages-part2",
-      "url": "https://raw.githubusercontent.com/FaroukAbichou/qaloon-hifz-content/main/mushaf/qaloon-madani/v1/pages-part2.zip",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/pages-part2.zip",
       "sizeBytes": 87126832,
       "sha256": "b5e4aacaf53d2ebe1dde462efc37a35b8feb5d0f89e2b60b75ccdcaec948aee6"
     },
     {
       "name": "pages-part3",
-      "url": "https://raw.githubusercontent.com/FaroukAbichou/qaloon-hifz-content/main/mushaf/qaloon-madani/v1/pages-part3.zip",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/pages-part3.zip",
       "sizeBytes": 88066065,
       "sha256": "51abce0d1d6c5cae01347ab0e0807da177f683dbf2758ec798883756e8be324f"
     },
     {
       "name": "pages-part4",
-      "url": "https://raw.githubusercontent.com/FaroukAbichou/qaloon-hifz-content/main/mushaf/qaloon-madani/v1/pages-part4.zip",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/pages-part4.zip",
       "sizeBytes": 91589097,
       "sha256": "ca79da1ffa2285f77087a9abdcf495e7dddbb597e510767e7b2c70901d6e5ddb"
     },
     {
       "name": "pages-part5",
-      "url": "https://raw.githubusercontent.com/FaroukAbichou/qaloon-hifz-content/main/mushaf/qaloon-madani/v1/pages-part5.zip",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/pages-part5.zip",
       "sizeBytes": 93148853,
       "sha256": "aba5b195549da0188796d7f1b205f1253ea0206c2f04f0472e80d79c47cd1868"
     },
     {
       "name": "pages-part6",
-      "url": "https://raw.githubusercontent.com/FaroukAbichou/qaloon-hifz-content/main/mushaf/qaloon-madani/v1/pages-part6.zip",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/pages-part6.zip",
       "sizeBytes": 93988535,
       "sha256": "2b5404c9eb84a0d2332f26b365927f32eb2b9cb48f8ca2caf37d7622cfc5b8a1"
     },
     {
       "name": "pages-part7",
-      "url": "https://raw.githubusercontent.com/FaroukAbichou/qaloon-hifz-content/main/mushaf/qaloon-madani/v1/pages-part7.zip",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/pages-part7.zip",
       "sizeBytes": 97862621,
       "sha256": "5a686f258b2eb8b90e429dab861eacb53f4912d125a6338288a9987a258c8785"
     },
     {
       "name": "pages-part8",
-      "url": "https://raw.githubusercontent.com/FaroukAbichou/qaloon-hifz-content/main/mushaf/qaloon-madani/v1/pages-part8.zip",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/pages-part8.zip",
       "sizeBytes": 56837571,
       "sha256": "8e94574397ccd361cb3e077214e96aeec19f1eeef71d3f58352597d16250b656"
     },
