@@ -8,6 +8,12 @@
       "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/pages.zip",
       "sizeBytes": 694064710,
       "sha256": "761ef71c48b80c1176fcfdbe833dd7fd6f8bd733bec10aa161684948b96ef93e"
+    },
+    {
+      "name": "book",
+      "url": "https://raw.githubusercontent.com/FaroukAbichou/qaloon-hifz-content/main/mushaf/qaloon-madani/v1/book.zip",
+      "sizeBytes": 717044,
+      "sha256": "a9d6994d071ea5c7f3bca882739dba1e8eb05c2223903c23e944865f9fb2f3fc"
     }
   ],
   "files": [],

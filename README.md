@@ -2,7 +2,8 @@
 
 Temporary TestFlight CDN for QuranHifz.
 
+Base URL (baked into the app as `ContentCDNConfiguration.temporaryCDNBaseURL`):
+
 `https://raw.githubusercontent.com/FaroukAbichou/qaloon-hifz-content/main`
 
-Hosts the tajweed style-guide (+ manifests). Mushaf pages and the default Ahmad
-reciter ship inside the TestFlight IPA. Extra audio can be added here later.
+Mushaf pages + default Ahmad reciter ship in the TestFlight IPA.
