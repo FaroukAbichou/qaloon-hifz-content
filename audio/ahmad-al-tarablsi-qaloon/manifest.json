@@ -4,10 +4,40 @@
   "version": 1,
   "packs": [
     {
-      "name": "audio",
-      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ahmad-al-tarablsi-qaloon.zip",
-      "sizeBytes": 457392926,
-      "sha256": "3c2687518fd0d79730370fedcc97dca76a90b46a80480202995afc2c8bcc298d"
+      "name": "audio-part1",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-part1.zip",
+      "sizeBytes": 80944952,
+      "sha256": "a510c90fbf8a1feebf0beac9359c6853e5d36376fa5ee17324b29ec2afd91bf7"
+    },
+    {
+      "name": "audio-part2",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-part2.zip",
+      "sizeBytes": 89097517,
+      "sha256": "d39d8fa3d35fb06aa938c3e44ee836a06a397633abf98c0362f91d203d67dcb4"
+    },
+    {
+      "name": "audio-part3",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-part3.zip",
+      "sizeBytes": 91357084,
+      "sha256": "9b993c8a17c4a1fa50bbd50884a16b9cb6aeaf876d4ae00a025e8f9eadd0b171"
+    },
+    {
+      "name": "audio-part4",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-part4.zip",
+      "sizeBytes": 87158701,
+      "sha256": "2f959a11cf3015c81251d481b17dc235cf8fb70095c927c54ac248838eb4a835"
+    },
+    {
+      "name": "audio-part5",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-part5.zip",
+      "sizeBytes": 92130713,
+      "sha256": "f47cdad9a78fd456ae02ae934454dded6447152ccd396702f2bc5cf0675aa089"
+    },
+    {
+      "name": "audio-part6",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-part6.zip",
+      "sizeBytes": 16697549,
+      "sha256": "f25dc116631855170b2bc2096b4cccbb51d72fc0dacf525e0d747412f81f7423"
     }
   ],
   "files": []
