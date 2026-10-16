@@ -6,4 +6,4 @@ Base URL (baked into the app as `ContentCDNConfiguration.temporaryCDNBaseURL`):
 
 `https://raw.githubusercontent.com/FaroukAbichou/qaloon-hifz-content/main`
 
-Mushaf pages + default Ahmad reciter ship in the TestFlight IPA.
+Large page / audio zips live on the `content-v1` GitHub Release.
