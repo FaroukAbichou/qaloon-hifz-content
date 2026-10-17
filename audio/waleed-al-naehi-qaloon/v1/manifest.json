@@ -1,0 +1,698 @@
+{
+  "id": "waleed-al-naehi-qaloon",
+  "kind": "audio",
+  "version": 1,
+  "packs": [],
+  "files": [
+    {
+      "path": "timing.json",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/timing.json",
+      "sizeBytes": 271931,
+      "sha256": "2aa9eb0828143554ef3ca897c2ac433a2704f9f5dfbf7b6340e19aa724c8d7c3"
+    },
+    {
+      "path": "1.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/1.mp3",
+      "sizeBytes": 666584,
+      "sha256": "3d6bd993e6712a36d3281101b8b90dca0e16e0e434f49d4555573bcb6d54deee"
+    },
+    {
+      "path": "2.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/2.mp3",
+      "sizeBytes": 115864509,
+      "sha256": "35d575574f8b60508c197a03ecea895a1a98bcb633290fd135bdc38deaada3c9"
+    },
+    {
+      "path": "3.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/3.mp3",
+      "sizeBytes": 65589452,
+      "sha256": "8e1e4e742f24f5def4279be56b98dae46d1b993629c748a659c09ff932718922"
+    },
+    {
+      "path": "4.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/4.mp3",
+      "sizeBytes": 70221276,
+      "sha256": "0b7415cd2bae9a8d1c42130b5eee0775af72e36309c6928eee9c16b9f6747a28"
+    },
+    {
+      "path": "5.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/5.mp3",
+      "sizeBytes": 51119288,
+      "sha256": "ba81ba783f47ee9b13a9a774737691503a974ef0168b723e89488500e75cdfc2"
+    },
+    {
+      "path": "6.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/6.mp3",
+      "sizeBytes": 53358295,
+      "sha256": "91d4359297c96c5a1ae6f1cc8937cd5a733c5d386b7977fa47708b2c6234a11d"
+    },
+    {
+      "path": "7.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/7.mp3",
+      "sizeBytes": 59980022,
+      "sha256": "93395fead5337592ae8c9d361a121944811c69522a913c49b545c5d8523b5b95"
+    },
+    {
+      "path": "8.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/8.mp3",
+      "sizeBytes": 23454987,
+      "sha256": "18f5251fd35bd5e674b518c77a72f035e5d3f3af87649db8d11b23a6094edba8"
+    },
+    {
+      "path": "9.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/9.mp3",
+      "sizeBytes": 45985480,
+      "sha256": "b6c7f5a7b01a5cd99d1958fb46a067281c91ce986ada2d8040bf90adaab1ddcc"
+    },
+    {
+      "path": "10.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/10.mp3",
+      "sizeBytes": 35059192,
+      "sha256": "493185eda80f983d90834fcf47cd239facec17e614a37c908161d01cf2595d6e"
+    },
+    {
+      "path": "11.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/11.mp3",
+      "sizeBytes": 33417881,
+      "sha256": "c0a4cde49b375199bead0cb21f42d116e2d8f13a737bde672b44084ec6407b5e"
+    },
+    {
+      "path": "12.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/12.mp3",
+      "sizeBytes": 30877943,
+      "sha256": "344cf8a028354e175efc0315b557ad6e13c8dd3b4e2fb8c39e7901b876ce5c9d"
+    },
+    {
+      "path": "13.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/13.mp3",
+      "sizeBytes": 14144514,
+      "sha256": "f95aa3cbc03847cf472958e2a566cb2edfe59361689bcb52e39cef1d70cf12c6"
+    },
+    {
+      "path": "14.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/14.mp3",
+      "sizeBytes": 14195088,
+      "sha256": "c1c5cb796988ddd4edea97d71b6f09f6866f4828ef20eabc4f8fe135155a1589"
+    },
+    {
+      "path": "15.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/15.mp3",
+      "sizeBytes": 10985176,
+      "sha256": "c5e6605b06cdc6d4cfc5562d3f18fce305e098da02147dca2a362f083a4caa2a"
+    },
+    {
+      "path": "16.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/16.mp3",
+      "sizeBytes": 31655765,
+      "sha256": "3f0b6abd5c5347cc8d654d19ef3c8cd46eaac71ec736a8359ba9c295bab59351"
+    },
+    {
+      "path": "17.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/17.mp3",
+      "sizeBytes": 27271791,
+      "sha256": "3b9a9fd8c2cbd967faa76653ddd1d1140f60f8c7b5ed8cea3234756f5a647267"
+    },
+    {
+      "path": "18.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/18.mp3",
+      "sizeBytes": 26678692,
+      "sha256": "59e96a2f50fbf31dc0ab1a56d089d7680d1433140d653d374a3e07d0ac3eb80e"
+    },
+    {
+      "path": "19.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/19.mp3",
+      "sizeBytes": 16732533,
+      "sha256": "25f5f4173b3c2db8e32b757343fa7c5d4c071f044112a3c139566b4e9b06bec3"
+    },
+    {
+      "path": "20.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/20.mp3",
+      "sizeBytes": 21901434,
+      "sha256": "f893efb1678ecd1343bf6bff801dd10fb8b177f1e31323488dbaf2adb7dd51c4"
+    },
+    {
+      "path": "21.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/21.mp3",
+      "sizeBytes": 21205532,
+      "sha256": "0b951498a186398d6a37ad7fc7a48e63892ff4e8a5076f82c5f36c61abf417a5"
+    },
+    {
+      "path": "22.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/22.mp3",
+      "sizeBytes": 22106652,
+      "sha256": "32ae8d454a22d28dc2c30703ed439819f4f77ec95863b488e3b2ad39f98065a4"
+    },
+    {
+      "path": "23.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/23.mp3",
+      "sizeBytes": 18668102,
+      "sha256": "236e9f7886fc2ebe99fd56b858c7121f71454b2ed87290d601a5902ea7a4aa89"
+    },
+    {
+      "path": "24.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/24.mp3",
+      "sizeBytes": 23095543,
+      "sha256": "fc4acadddd78f7bfe7993e8214ae43f5e05c0dcecd73ee6b7234e1a7d67e352f"
+    },
+    {
+      "path": "25.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/25.mp3",
+      "sizeBytes": 14733016,
+      "sha256": "53992e95519da0e86553cd68f984377827f8fb9ceeb6e864141896c949e29ded"
+    },
+    {
+      "path": "26.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/26.mp3",
+      "sizeBytes": 22169346,
+      "sha256": "775896ee4cb74282fa5f963e8243983a05e0516b9eb8ed9b33d97e13c60c70bd"
+    },
+    {
+      "path": "27.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/27.mp3",
+      "sizeBytes": 19992614,
+      "sha256": "204edfa6354af9d556292de5817c2bc33a6583c2fd930abf4df523413b1d5cd1"
+    },
+    {
+      "path": "28.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/28.mp3",
+      "sizeBytes": 23146116,
+      "sha256": "2cf804d94dec33625275cbe6903e4a5218dab97a9442dbf1eea1cb86254424f9"
+    },
+    {
+      "path": "29.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/29.mp3",
+      "sizeBytes": 16949453,
+      "sha256": "2dac1c419b29b8d920732d85b5602e020cfa40495d57ea8ecddb823f17506479"
+    },
+    {
+      "path": "30.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/30.mp3",
+      "sizeBytes": 14311713,
+      "sha256": "4953a2fef1f4a10f4434ee8052e26671597a28102b2da9c8cf63d27cad3007bc"
+    },
+    {
+      "path": "31.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/31.mp3",
+      "sizeBytes": 8755364,
+      "sha256": "02a713ae401ca0763a8c55aeff2ed437ffee4e3baef8242614fc770d581732dd"
+    },
+    {
+      "path": "32.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/32.mp3",
+      "sizeBytes": 6440288,
+      "sha256": "890c29c0a3273908805be9ebc853ef827b53a39e9c4337f89a0b6cf2300f7f49"
+    },
+    {
+      "path": "33.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/33.mp3",
+      "sizeBytes": 23013608,
+      "sha256": "23ee89b220cfc2d360a79656715a1f84e496e25dedb402da3f4005f6325fd667"
+    },
+    {
+      "path": "34.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/34.mp3",
+      "sizeBytes": 14790261,
+      "sha256": "9321ab2f45a9c2da66fc28bc8f3cb6eaae6d454fc04dd46a8dc6f8186646b905"
+    },
+    {
+      "path": "35.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/35.mp3",
+      "sizeBytes": 12853035,
+      "sha256": "10e4363f6ccc080bba18186efe423e7732e28bfd2c98cd26d6cb5dc169a52f91"
+    },
+    {
+      "path": "36.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/36.mp3",
+      "sizeBytes": 12233187,
+      "sha256": "d0631cc1d5f89b21e2f9dbe398e745969069567ba2b7e471a09bb15261eaae24"
+    },
+    {
+      "path": "37.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/37.mp3",
+      "sizeBytes": 15873194,
+      "sha256": "31f30f8f53076b0073bdff349e1bc75717b19a5d6d3a118b973752ca22ddea60"
+    },
+    {
+      "path": "38.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/38.mp3",
+      "sizeBytes": 12456795,
+      "sha256": "5ae2d65fd8cdf9a4819fd3806324b69bf41e9b68ba6448075aba1c2f69ea9330"
+    },
+    {
+      "path": "39.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/39.mp3",
+      "sizeBytes": 18719914,
+      "sha256": "3e5c58275c0186a1aa6224281edc31382e346a337b7b7db958408ab222a85135"
+    },
+    {
+      "path": "40.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/40.mp3",
+      "sizeBytes": 19646529,
+      "sha256": "3f0c093c3c70f8b6910f30216e3e40eebf48ab5b3193cb296a711af1cde17760"
+    },
+    {
+      "path": "41.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/41.mp3",
+      "sizeBytes": 14122363,
+      "sha256": "59508465323eae49fc9d7eebf887a747cd30a41103ea767c4767a0199b0bdb29"
+    },
+    {
+      "path": "42.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/42.mp3",
+      "sizeBytes": 14304608,
+      "sha256": "198cc2cc1420b3afc94a3d46be204330944f802979bc40628c9a7548a9411b0d"
+    },
+    {
+      "path": "43.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/43.mp3",
+      "sizeBytes": 15194443,
+      "sha256": "8ae6c36577ca242efb6d460b9ec9f9ea22acd5ce4f4b202d4c15629c8f861080"
+    },
+    {
+      "path": "44.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/44.mp3",
+      "sizeBytes": 6596604,
+      "sha256": "e0d48f21862ba41c37b34db0b8f0201ad90de264b90a7f2fbcd4dd817e13f27d"
+    },
+    {
+      "path": "45.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/45.mp3",
+      "sizeBytes": 8756618,
+      "sha256": "ea53aa3e79515dbcdf8c0f5a9ac616995066a9b0f423b1f0e656447d59d2517b"
+    },
+    {
+      "path": "46.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/46.mp3",
+      "sizeBytes": 11542300,
+      "sha256": "a82843423a23724558c8bfd905d79b688915a5506eea244ef4c9d43f8db797f0"
+    },
+    {
+      "path": "47.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/47.mp3",
+      "sizeBytes": 9774348,
+      "sha256": "e51238270757ba2e9c37ef014b8ca08234019043df8887a5ae53008a1521cebc"
+    },
+    {
+      "path": "48.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/48.mp3",
+      "sizeBytes": 10366163,
+      "sha256": "94a52d3197c8a8c8b8dd839aae11b50932a07154832734f3379bad7550c57d59"
+    },
+    {
+      "path": "49.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/49.mp3",
+      "sizeBytes": 6620413,
+      "sha256": "3d7247dfa8b34097861da8627897203c526aa8ccc8aa91b6ecdd84c4cca622a1"
+    },
+    {
+      "path": "50.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/50.mp3",
+      "sizeBytes": 6572349,
+      "sha256": "c5f48930cbf349ac46c32a81dd9d32b062d80d633456c2d1014fa993cbc6b55e"
+    },
+    {
+      "path": "51.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/51.mp3",
+      "sizeBytes": 6519686,
+      "sha256": "f8a595e50b644f3de2aef1b35bd8dfef2909a15c190c311efd543d7ea9fbd842"
+    },
+    {
+      "path": "52.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/52.mp3",
+      "sizeBytes": 5706337,
+      "sha256": "4a4697bbe5ee954f5e87d9e15bd064d44f1eb01b6b6849a50616489764a2b09c"
+    },
+    {
+      "path": "53.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/53.mp3",
+      "sizeBytes": 6281449,
+      "sha256": "2c5a6d715bb2e41af081e5ef26f8840714fd52684eb3274b910f837396a3195d"
+    },
+    {
+      "path": "54.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/54.mp3",
+      "sizeBytes": 6116369,
+      "sha256": "fc0fe56dd40056cd502e7eeaa08f2c47895e4844a76b7703a5b9542b164ace51"
+    },
+    {
+      "path": "55.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/55.mp3",
+      "sizeBytes": 7832077,
+      "sha256": "5d3ab562f467952f558d804ab1c24f0a4f36d58e623c9999f587e4523c35fd58"
+    },
+    {
+      "path": "56.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/56.mp3",
+      "sizeBytes": 7694568,
+      "sha256": "54a04400e3d79bba7717bd74ef2f16d134271b901efabdcd15ec9a411d30f8ca"
+    },
+    {
+      "path": "57.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/57.mp3",
+      "sizeBytes": 10021765,
+      "sha256": "07d8fb281da76569afb878d55d6e5bc66b0bfb7c5586088cbd8fc3a65f29c6f8"
+    },
+    {
+      "path": "58.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/58.mp3",
+      "sizeBytes": 8499573,
+      "sha256": "cbdce939cfe7b26141035db20d6101ca710b105700d82faa257b236895c4d513"
+    },
+    {
+      "path": "59.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/59.mp3",
+      "sizeBytes": 8154338,
+      "sha256": "c18019c6fda36c00d0108697b07a029e2bcc8b52088aee0d36e6f6c7ed2a358b"
+    },
+    {
+      "path": "60.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/60.mp3",
+      "sizeBytes": 6643834,
+      "sha256": "c784133ef51d1f67ae2d1b2fe6cb5a29034a9ccb3c50cd6afe1c74595f4f508d"
+    },
+    {
+      "path": "61.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/61.mp3",
+      "sizeBytes": 3708924,
+      "sha256": "94701f6d82d129e609336a50fbbbb678a26eeeecb93cb9ad8fb726d0d5746606"
+    },
+    {
+      "path": "62.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/62.mp3",
+      "sizeBytes": 2872588,
+      "sha256": "be7c52e64f1992d91da251e52229e157e6f23d87fe51cd9b56cd0f0ce39b2fd0"
+    },
+    {
+      "path": "63.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/63.mp3",
+      "sizeBytes": 3285099,
+      "sha256": "eefe005fdb84282770ecf8a1b86340943aebc2cbbc2e61c2426894ba85608378"
+    },
+    {
+      "path": "64.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/64.mp3",
+      "sizeBytes": 4162828,
+      "sha256": "952d66a259841fa90b632645d3233f501843ee61ee0548e54cc99a03cd36a708"
+    },
+    {
+      "path": "65.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/65.mp3",
+      "sizeBytes": 4980759,
+      "sha256": "a29b0782e41bfaef2e6af9d48e2bd42156dd2cd3f0f9e6de228220bd2ee8fd9c"
+    },
+    {
+      "path": "66.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/66.mp3",
+      "sizeBytes": 4705742,
+      "sha256": "02e158d45791fe74cc84c2e68a51e4a1ec61ae1cfbe4e02e4dd1e6e8c8d8ca95"
+    },
+    {
+      "path": "67.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/67.mp3",
+      "sizeBytes": 5644911,
+      "sha256": "f20e0ec1e69d85a0d2031109b16586cace689cb548dec35d58f29c795eb26509"
+    },
+    {
+      "path": "68.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/68.mp3",
+      "sizeBytes": 5494028,
+      "sha256": "ce29da7b2db0cf81ac3d93adcafcd5e3ec07eb4abde79464faa170b433159e0d"
+    },
+    {
+      "path": "69.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/69.mp3",
+      "sizeBytes": 4862910,
+      "sha256": "da5a866a53711c22020d107b559d9b746868f1574f8892d8eb60f6345378fb37"
+    },
+    {
+      "path": "70.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/70.mp3",
+      "sizeBytes": 4042038,
+      "sha256": "79a0a55174cb7f2fb74a97a19fc0fee514c8f534048a3df38f15b9481b357eeb"
+    },
+    {
+      "path": "71.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/71.mp3",
+      "sizeBytes": 3946743,
+      "sha256": "f4388f4e142a8f95c7951d0e76984fdf2b91a3b8a52d42fa259491c17bdba0c2"
+    },
+    {
+      "path": "72.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/72.mp3",
+      "sizeBytes": 4902198,
+      "sha256": "a670b8d0b87572222f46d65fc5558dcaa70f6bfec973a2a2fe0451a9ab9e3dc8"
+    },
+    {
+      "path": "73.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/73.mp3",
+      "sizeBytes": 3540905,
+      "sha256": "7bfbc8ccf9c78c822e591534cce5bf962211d0ea73ece85a69e9cd32f0af0ea7"
+    },
+    {
+      "path": "74.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/74.mp3",
+      "sizeBytes": 4768033,
+      "sha256": "cca7da182fbb3d6640ca0ec95fa4c447dd66c4d82270c779dbf8204ee99a912e"
+    },
+    {
+      "path": "75.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/75.mp3",
+      "sizeBytes": 2784817,
+      "sha256": "c2afa624b3228405ef19dd9adbac5356b7f01723d8fc514b61edf5a32aa9b9d4"
+    },
+    {
+      "path": "76.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/76.mp3",
+      "sizeBytes": 4683187,
+      "sha256": "fb434da094314813f03215e6b35f9016e66f836e88cb772955464d6f78b91281"
+    },
+    {
+      "path": "77.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/77.mp3",
+      "sizeBytes": 3688847,
+      "sha256": "e3524605a9fc1d63f3dc42d4f041c1c874744cc1f38dd73a270cff51ef27e10e"
+    },
+    {
+      "path": "78.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/78.mp3",
+      "sizeBytes": 3618227,
+      "sha256": "c0824ad6b65c2ca96a78c91448a393931b644fd43edcc17478971d00ea16e484"
+    },
+    {
+      "path": "79.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/79.mp3",
+      "sizeBytes": 3402560,
+      "sha256": "b56332a9d292fd9cf0e58710c60a3e33c5721af52cfc9347dfdd6a77db00f6d6"
+    },
+    {
+      "path": "80.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/80.mp3",
+      "sizeBytes": 2779383,
+      "sha256": "6c1acf7dc45e4999cf4addede9c056fe8f2643c911970ea52dfb7ac97b68083c"
+    },
+    {
+      "path": "81.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/81.mp3",
+      "sizeBytes": 1916715,
+      "sha256": "d54d9b684372dabf01f284922a77b00362892ef03e40731da336406659593c64"
+    },
+    {
+      "path": "82.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/82.mp3",
+      "sizeBytes": 1416418,
+      "sha256": "3130782e8f2dd23c45ddf7f98028098981a6ca7fc0ac8662bccfa0db489fa6c7"
+    },
+    {
+      "path": "83.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/83.mp3",
+      "sizeBytes": 3047295,
+      "sha256": "efab43abf43ea4b4d4de0b520f201406ecbaa8c369f6cb8d1139258a8b92f427"
+    },
+    {
+      "path": "84.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/84.mp3",
+      "sizeBytes": 1860277,
+      "sha256": "cec033b37c6ec21960c43e8f2a45879551501bb6d2a91f0ef92a53242cd76211"
+    },
+    {
+      "path": "85.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/85.mp3",
+      "sizeBytes": 1874502,
+      "sha256": "f633d2912ccbffe71974a0dc23482a74e52dcf740166d9c610dd73eef058bef7"
+    },
+    {
+      "path": "86.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/86.mp3",
+      "sizeBytes": 1197826,
+      "sha256": "8e17a6d90c6ceaa4d30d6df342b022227a6d16ef577d0d496826891b94987885"
+    },
+    {
+      "path": "87.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/87.mp3",
+      "sizeBytes": 1329901,
+      "sha256": "43c238cca224bb8870e9ea45489f29e5b459e276698a22cc0eabd7ed45b4c240"
+    },
+    {
+      "path": "88.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/88.mp3",
+      "sizeBytes": 1634593,
+      "sha256": "d99b44e654409f0e6dae13fba7711d6b024385b59a422594d6e310b554f4e796"
+    },
+    {
+      "path": "89.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/89.mp3",
+      "sizeBytes": 2311687,
+      "sha256": "460a9b478cb37a7bab5ab0c01aeaa904e68a02ccfdcc647bb102e16670635961"
+    },
+    {
+      "path": "90.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/90.mp3",
+      "sizeBytes": 1344529,
+      "sha256": "a4c0d4b63ff4addfcbffaaf71e55bfbe12bc6bb7c491c96907559909615546b3"
+    },
+    {
+      "path": "91.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/91.mp3",
+      "sizeBytes": 1108800,
+      "sha256": "5a49fa4c45008d84005336b24e4260915c04d15b171a94d844764151dbfa11e8"
+    },
+    {
+      "path": "92.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/92.mp3",
+      "sizeBytes": 1382564,
+      "sha256": "f398352791a5dd316fee57b53791ded3c6027c498749a2d0a8e92f47836a7bec"
+    },
+    {
+      "path": "93.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/93.mp3",
+      "sizeBytes": 786957,
+      "sha256": "7271c943e8cadd6d7b746c5115c7639a97cadd155538bce40db0f8c4cea5d3f2"
+    },
+    {
+      "path": "94.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/94.mp3",
+      "sizeBytes": 461367,
+      "sha256": "ea18991c72f5b98fa75d5e17130a380aadeae612521fc94eedf01321158369d3"
+    },
+    {
+      "path": "95.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/95.mp3",
+      "sizeBytes": 612669,
+      "sha256": "8d0e8acddd9019290f798d6a291431909958688ee89e736a7940274b5f5aa804"
+    },
+    {
+      "path": "96.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/96.mp3",
+      "sizeBytes": 1212857,
+      "sha256": "4413f3af04d5c35122df550f8c4b818d8d5e737c5e41ae549c80b6df37c3b2cd"
+    },
+    {
+      "path": "97.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/97.mp3",
+      "sizeBytes": 490624,
+      "sha256": "6ef311711eaf3c9fcae4d1eedc789d925be75f9398a093cb2f3fe20e4d806545"
+    },
+    {
+      "path": "98.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/98.mp3",
+      "sizeBytes": 1576915,
+      "sha256": "446f99fc141ce81160f4d33df8d1949f418e20cd925376a2b58479890f6b084e"
+    },
+    {
+      "path": "99.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/99.mp3",
+      "sizeBytes": 758969,
+      "sha256": "0b5633e124362dad208b6760ad2ca783dcff8f69b0df1fd546f3fff191b7b04a"
+    },
+    {
+      "path": "100.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/100.mp3",
+      "sizeBytes": 777360,
+      "sha256": "ae32957919f0fdc8ff593a876bb8d304ca0bcba6f778f1347f9e8c6a45f02abc"
+    },
+    {
+      "path": "101.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/101.mp3",
+      "sizeBytes": 659495,
+      "sha256": "506c9112c52be1bf644a9321a4c5232acf1b700d1702d1642e6faeff4ffd673a"
+    },
+    {
+      "path": "102.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/102.mp3",
+      "sizeBytes": 559185,
+      "sha256": "5bf8b8f7896e0274a4cfbb377a5ada9767825afb3a42975834d491fce4baeae2"
+    },
+    {
+      "path": "103.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/103.mp3",
+      "sizeBytes": 301722,
+      "sha256": "fd98cab9782a7c2ca8b574f6242a4ae15e9b75674be67d2633584a905b792722"
+    },
+    {
+      "path": "104.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/104.mp3",
+      "sizeBytes": 614356,
+      "sha256": "6cf8b0ed6354a2d472bc64fc52ec4b4531d39d8a30a3720ffc4a8f80b214f281"
+    },
+    {
+      "path": "105.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/105.mp3",
+      "sizeBytes": 452605,
+      "sha256": "14622b43af69e991fd57d53a700c554f0702ee9fd18995cd429610390fa9ac2d"
+    },
+    {
+      "path": "106.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/106.mp3",
+      "sizeBytes": 417079,
+      "sha256": "243e253e70bb7804453ce2c1772b57359644f7a79ed845802f4317ed83224838"
+    },
+    {
+      "path": "107.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/107.mp3",
+      "sizeBytes": 510702,
+      "sha256": "b48ea61604bccb16f94931203d8e81b77e7c806d8b1b71e3cc05ebbc035386b5"
+    },
+    {
+      "path": "108.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/108.mp3",
+      "sizeBytes": 236506,
+      "sha256": "4d0a9ef34e532408b795caa6d214de0b5ffb33051ac326cf9c9f397f8cc94e90"
+    },
+    {
+      "path": "109.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/109.mp3",
+      "sizeBytes": 440888,
+      "sha256": "b6607cd386e0ba8bc421369e9d2b7726b674752eefdacd72ace09c4d882a91f4"
+    },
+    {
+      "path": "110.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/110.mp3",
+      "sizeBytes": 389494,
+      "sha256": "9455a6442c0550568211818d527c1ff2c6f20693d6862106c9f3bb105bd2d729"
+    },
+    {
+      "path": "111.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/111.mp3",
+      "sizeBytes": 428767,
+      "sha256": "def5a9b949051af24e33e619b8eba7defd4f34535d5d0f7efd5037a18408e651"
+    },
+    {
+      "path": "112.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/112.mp3",
+      "sizeBytes": 236939,
+      "sha256": "18528e2e0233483b0ca66f073f04c51089378b9dfee2638a6e7cb8be6ad7b709"
+    },
+    {
+      "path": "113.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/113.mp3",
+      "sizeBytes": 377358,
+      "sha256": "54375f10c690bd430393a200be160149250e917c368966ea1ef8707726701f37"
+    },
+    {
+      "path": "114.mp3",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/114.mp3",
+      "sizeBytes": 435036,
+      "sha256": "a1cf636a5cef779c4197d2eab2e0c88465717e3f50e497f75369fb594a08c321"
+    }
+  ]
+}

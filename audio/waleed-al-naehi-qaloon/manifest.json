@@ -1,0 +1,122 @@
+{
+  "id": "waleed-al-naehi-qaloon",
+  "kind": "audio",
+  "version": 1,
+  "packs": [
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part1",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part1.zip",
+      "sizeBytes": 673196,
+      "sha256": "5c91808a7f74561449f06e9f86fb096c62e8345941b609d55d5171c330f49ebf"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part2",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part2.zip",
+      "sizeBytes": 109549181,
+      "sha256": "6336f3da46bac96f89443f2d836a1d4af822ef30851748c5b1e851ed6ff6947a"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part3",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part3.zip",
+      "sizeBytes": 62856442,
+      "sha256": "78f7ee5bb9362194898c5d674437aaec27cffe647b5500f5d6555737e5c9f453"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part4",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part4.zip",
+      "sizeBytes": 67323575,
+      "sha256": "5d37eb9c275e9d5846a94894dc42b5519b48f1bd2e967538e6111eeb85dfc455"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part5",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part5.zip",
+      "sizeBytes": 47956524,
+      "sha256": "965b554883a94a5b03716381011441c58d14c10dc1617c81ce3dc0bc7233d14a"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part6",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part6.zip",
+      "sizeBytes": 49841000,
+      "sha256": "6d3421ac2f87a742fdeedfee477848c476347a78aa3dbc9581fcd37b07351d3b"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part7",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part7.zip",
+      "sizeBytes": 78176445,
+      "sha256": "775026bc99490ad5b87d66e174a34b2d3248b6c9bdb2f6ab800f938cabfeaa71"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part8",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part8.zip",
+      "sizeBytes": 76226198,
+      "sha256": "3149e0e3c477219c4cfbfa9e87cc368dba4a7113b870f8460b846bab6914e4a7"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part9",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part9.zip",
+      "sizeBytes": 87369408,
+      "sha256": "bc7c2dd56175dc5b7689a87b087f7c2fc2572a91a79242146ff9720f1d759650"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part10",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part10.zip",
+      "sizeBytes": 66100658,
+      "sha256": "97d6639ac30c9fbf1565452103b12324c70de6c8f4e96c570a1bb5a753c35cfb"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part11",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part11.zip",
+      "sizeBytes": 81821306,
+      "sha256": "ef34e576693fa905ddb717914961dfd454d8b3fe4a15ead561e48b5275f1d684"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part12",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part12.zip",
+      "sizeBytes": 74378894,
+      "sha256": "5f2bd84b3fbab02cab20ee6ca6f815f687ebd7a4a4693c3ea6b8e4a5685c67dd"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part13",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part13.zip",
+      "sizeBytes": 77604357,
+      "sha256": "d029b20e00560854186208ca464a196cac1c67f30bf28f7836f902bdcc5bcdeb"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part14",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part14.zip",
+      "sizeBytes": 87316341,
+      "sha256": "c41e8264ea64f61a31fcb55c17b75fffdece02efe25e22c267eef1baf6f13b99"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part15",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part15.zip",
+      "sizeBytes": 76651488,
+      "sha256": "43ab15b9edac20cead3c682e0b865ef55a9d9accd8cac22255223dfceca49972"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part16",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part16.zip",
+      "sizeBytes": 84885925,
+      "sha256": "5bb5865597970b4bae19fb8bd699bb636edcd824fb8468fbf8b2e81bfcf686d8"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part17",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part17.zip",
+      "sizeBytes": 87124155,
+      "sha256": "510b83acfa0cecf045b6746ba64d5d07e3de365e8d210ffc349410e70b173828"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part18",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part18.zip",
+      "sizeBytes": 88988756,
+      "sha256": "b135101f2e1f2cc82d521c171f4cbae882d864cd775b549eb777cd3597db89a1"
+    },
+    {
+      "name": "audio-waleed-al-naehi-qaloon-part19",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-waleed-al-naehi-qaloon-part19.zip",
+      "sizeBytes": 1752148,
+      "sha256": "7e0d9614d00315668f09f0f6708f4875e6506c13705ca7b7dda92d7a2c5428ba"
+    }
+  ],
+  "files": []
+}

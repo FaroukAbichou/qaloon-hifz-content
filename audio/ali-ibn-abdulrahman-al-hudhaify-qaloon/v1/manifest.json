@@ -1,0 +1,698 @@
+{
+  "id": "ali-ibn-abdulrahman-al-hudhaify-qaloon",
+  "kind": "audio",
+  "version": 1,
+  "packs": [],
+  "files": [
+    {
+      "path": "timing.json",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/timing.json",
+      "sizeBytes": 272388,
+      "sha256": "acd924a12632cdb9026821402bb7c5d4b3f45fc5ec37dbbd355a682d33ba4adf"
+    },
+    {
+      "path": "1.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/1.mp3",
+      "sizeBytes": 940758,
+      "sha256": "230aa0d1f27da03251a4852b2ab3c80016f3fc5cdedc5b16a97540d22e4cb8a4"
+    },
+    {
+      "path": "2.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/2.mp3",
+      "sizeBytes": 58442676,
+      "sha256": "cb962af20bfcdc8d227d3f2b7cd5068ecc515f95b3b8025875857568157f6b6a"
+    },
+    {
+      "path": "3.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/3.mp3",
+      "sizeBytes": 69827954,
+      "sha256": "bc5a15a41d542f6f99d7dc0302d509d0b25effe5307255bf6738cb5765623b9a"
+    },
+    {
+      "path": "4.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/4.mp3",
+      "sizeBytes": 67804614,
+      "sha256": "522761bc092db20100040ca192a9c00781189c38f84a056ca999264b1e2846b4"
+    },
+    {
+      "path": "5.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/5.mp3",
+      "sizeBytes": 52479305,
+      "sha256": "90314242f62caf60d4e2afcdb194a76ae163a7a1cd5a4e2bbd89ce63a6ec0369"
+    },
+    {
+      "path": "6.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/6.mp3",
+      "sizeBytes": 57295030,
+      "sha256": "6174b9a77c57690c880cb96d65fcba2aeb3853de0b230ecd7fa01f18c45fe7cc"
+    },
+    {
+      "path": "7.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/7.mp3",
+      "sizeBytes": 64615168,
+      "sha256": "b738df34067ef3e443ff8460055e349d5dcc580610feeba1e985ba0afef602a5"
+    },
+    {
+      "path": "8.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/8.mp3",
+      "sizeBytes": 24765267,
+      "sha256": "bfd0426c1961b3d79d211c33032da77b986add23c0044d047e7644fe7664b58a"
+    },
+    {
+      "path": "9.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/9.mp3",
+      "sizeBytes": 48188954,
+      "sha256": "6efae4398635d82c535e85da01d15579319c6155d597265b23bbe2741ffe5188"
+    },
+    {
+      "path": "10.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/10.mp3",
+      "sizeBytes": 35572857,
+      "sha256": "2638e542ab51d7d49fc7e424137939d1e7c617e5cac515355df253ac3a20b07d"
+    },
+    {
+      "path": "11.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/11.mp3",
+      "sizeBytes": 36312644,
+      "sha256": "cd951aa2ee637a18e6ac20a197ebf94c1e6d847c6e809b69b885a0e60060d833"
+    },
+    {
+      "path": "12.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/12.mp3",
+      "sizeBytes": 33542829,
+      "sha256": "c0bf4badc2c62e39f9efcfd38445aed493b12748e2f8d2314a0fcb01eee15300"
+    },
+    {
+      "path": "13.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/13.mp3",
+      "sizeBytes": 16423639,
+      "sha256": "83027db9d6ecfb0ce8fe56ca6569d2bc59271bcd0c94524e4ecad4e819db4d8b"
+    },
+    {
+      "path": "14.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/14.mp3",
+      "sizeBytes": 16574104,
+      "sha256": "00252513045cce4c0c41884fb5ee4ce56570945f56b093893bf2c95a9932a5ba"
+    },
+    {
+      "path": "15.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/15.mp3",
+      "sizeBytes": 14928599,
+      "sha256": "efbb37a1c2abd610c70c737faad0dfccbb568ba8b2d53c75c7fde803df89e0f9"
+    },
+    {
+      "path": "16.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/16.mp3",
+      "sizeBytes": 37656383,
+      "sha256": "b47decb5ae2d7aeb1855b9b642a54b7495c52b91cf28a082da775c91b86b8b7b"
+    },
+    {
+      "path": "17.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/17.mp3",
+      "sizeBytes": 27701013,
+      "sha256": "520ccb7fd41093cfcae24b07ebd95fde8d7750f62084b6516ce0a35435feceb9"
+    },
+    {
+      "path": "18.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/18.mp3",
+      "sizeBytes": 28602551,
+      "sha256": "2cda615e9041503a7e889ded6e8325851014a72201e9b0a2b9ccab5dd439dbeb"
+    },
+    {
+      "path": "19.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/19.mp3",
+      "sizeBytes": 17300099,
+      "sha256": "167b3923d10f424eb3363adfb9461b8f3998b5f0f4615965d4cc07f1f087ea8b"
+    },
+    {
+      "path": "20.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/20.mp3",
+      "sizeBytes": 22869823,
+      "sha256": "a6fce9bad2d5793764cfe07ea46958b7fbad5dafa12c7601fec3e44a989ec7ab"
+    },
+    {
+      "path": "21.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/21.mp3",
+      "sizeBytes": 24185977,
+      "sha256": "b4308025edf2c479016fec303253c7cff5124b9316c6861c2985f64375113781"
+    },
+    {
+      "path": "22.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/22.mp3",
+      "sizeBytes": 25136834,
+      "sha256": "3ecb460f183a3583b42dde21141a729ea75202c32a4a2a75815b056075344004"
+    },
+    {
+      "path": "23.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/23.mp3",
+      "sizeBytes": 23008168,
+      "sha256": "8d13a73e17e28c32e8150d264448e552a3bf5ef9de6eea2638bb690b93c3ccf2"
+    },
+    {
+      "path": "24.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/24.mp3",
+      "sizeBytes": 27405516,
+      "sha256": "21cda9792618d231b7cdc2b3b60b2a21898a58489675a9201cfd8c71561a4e50"
+    },
+    {
+      "path": "25.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/25.mp3",
+      "sizeBytes": 16258963,
+      "sha256": "fead981bdfd920d6088115a81933f38cfa1331732c684502d90a0df35904ff24"
+    },
+    {
+      "path": "26.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/26.mp3",
+      "sizeBytes": 29945872,
+      "sha256": "fd9eda4edf6465d08a8b85333ff52c52a858a45a3f06d9c89a05744bd04ec8e5"
+    },
+    {
+      "path": "27.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/27.mp3",
+      "sizeBytes": 24086084,
+      "sha256": "6423c77fd4c52dce550e1acca6dd67191b75429e40032340613bfee6d652bf1e"
+    },
+    {
+      "path": "28.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/28.mp3",
+      "sizeBytes": 28448742,
+      "sha256": "fc0945f178f8efbe0ef8e03675371c77416a763ec2bc86ac000e6162addabe38"
+    },
+    {
+      "path": "29.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/29.mp3",
+      "sizeBytes": 20841467,
+      "sha256": "fbe9dd440cfc01b6f49af7cb24fe46ba9f097df2a4cba9d8e9815a9910059576"
+    },
+    {
+      "path": "30.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/30.mp3",
+      "sizeBytes": 17038457,
+      "sha256": "ee01c74266a6283e0d0296620f136e9830f22657f717cab05856127c8ad1a69d"
+    },
+    {
+      "path": "31.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/31.mp3",
+      "sizeBytes": 10905324,
+      "sha256": "08413c5a602758fe4237326c3655d1c1b372d4f9db39a3b0f344d83702f81f09"
+    },
+    {
+      "path": "32.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/32.mp3",
+      "sizeBytes": 7462594,
+      "sha256": "a25946c1a22035c9c822a822ebe87bf0efb1cafddab0009bc4537ed238c22f97"
+    },
+    {
+      "path": "33.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/33.mp3",
+      "sizeBytes": 25886113,
+      "sha256": "7b3a18e14d75bdde3330d944adfbabfd2108ef55e8488e60d539f38e44f629a8"
+    },
+    {
+      "path": "34.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/34.mp3",
+      "sizeBytes": 17114943,
+      "sha256": "62cdd85e1f59a5f6dc6085f2483fd31aeb5f2081d673bf7f2550c1ece58dac46"
+    },
+    {
+      "path": "35.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/35.mp3",
+      "sizeBytes": 15689702,
+      "sha256": "403864bc2b849d3099e78334cf825918e6c7d0a528da6c8a88ba7f1993974bd4"
+    },
+    {
+      "path": "36.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/36.mp3",
+      "sizeBytes": 15306016,
+      "sha256": "fc5652d65805014d2500ac559e1ee22b3d26e9dabbf0b54717afe8fd6832684e"
+    },
+    {
+      "path": "37.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/37.mp3",
+      "sizeBytes": 21788145,
+      "sha256": "6693d4f27fb3e3b61cdccd7010051371453cda45205998cf6f1c14dc8680f2cf"
+    },
+    {
+      "path": "38.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/38.mp3",
+      "sizeBytes": 15279684,
+      "sha256": "acec5ff9124ebbab9de23ddb9f8f11c3e83f93d8a0b7e3b2714ebe095531866c"
+    },
+    {
+      "path": "39.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/39.mp3",
+      "sizeBytes": 23010258,
+      "sha256": "c484c62ecc118cb8f0d7ed1f99dfd33e59043fe81b0ea2d85bd6ae8353736ffb"
+    },
+    {
+      "path": "40.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/40.mp3",
+      "sizeBytes": 24071456,
+      "sha256": "eada88d44a484c04357b7129b5c8aef7a54205698b1fc4263b13dfb6850dca28"
+    },
+    {
+      "path": "41.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/41.mp3",
+      "sizeBytes": 16360945,
+      "sha256": "752e2bf2d3c28ce1c3b51bc5a834b02c7ffefdf8e66c2f1d92700a64c0f7aca3"
+    },
+    {
+      "path": "42.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/42.mp3",
+      "sizeBytes": 17158829,
+      "sha256": "93263b8a269cbf41d58992334445cad8ca5ec33331753cd566cde0e8363de3e8"
+    },
+    {
+      "path": "43.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/43.mp3",
+      "sizeBytes": 18845294,
+      "sha256": "6aef3c86deac8d20b946eaef365b89e29bd17260a2d917362d9008f9a74ce1cc"
+    },
+    {
+      "path": "44.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/44.mp3",
+      "sizeBytes": 8108759,
+      "sha256": "5d4a15cf8e045398247be53a79e2ad4516add3cff9eb9841cd1f05fe1676de5d"
+    },
+    {
+      "path": "45.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/45.mp3",
+      "sizeBytes": 10173477,
+      "sha256": "4abbbcfe04f11c7b8a08d283a6ca90fe203e2e4b7f313f10ca3a7c8c70f9d724"
+    },
+    {
+      "path": "46.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/46.mp3",
+      "sizeBytes": 12505689,
+      "sha256": "e9dd422bf096fd03527b5ee9f0a1f90c82b836d6fd03915e2ecf140958637396"
+    },
+    {
+      "path": "47.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/47.mp3",
+      "sizeBytes": 10417983,
+      "sha256": "ce8d95f85921dd1b801e26632cf64368ddbb594522eb692654468c68a0d344e4"
+    },
+    {
+      "path": "48.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/48.mp3",
+      "sizeBytes": 10739812,
+      "sha256": "9e58b81bfc316ecaa25f761f9b3f04e09ae34321f523091b1a10b4966f093989"
+    },
+    {
+      "path": "49.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/49.mp3",
+      "sizeBytes": 7482238,
+      "sha256": "5c2c4b11d2065014b9621a7f7d1f594561abfcc57d952f174e83bd52d183d844"
+    },
+    {
+      "path": "50.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/50.mp3",
+      "sizeBytes": 7363120,
+      "sha256": "ce0ecdcef1474a201fe4b9f63a7a7f6d2ec7eb08a3b8bf5f96f4798feec698a4"
+    },
+    {
+      "path": "51.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/51.mp3",
+      "sizeBytes": 7696651,
+      "sha256": "0eacf6eb0dd072dccd874fc13a4dbe0e7bbf8fb6bdff154f983f683249386745"
+    },
+    {
+      "path": "52.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/52.mp3",
+      "sizeBytes": 6906708,
+      "sha256": "15f55edaeee130de8737f4509fd93234b9533656d2aea9a745e543ecaa0c8fc3"
+    },
+    {
+      "path": "53.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/53.mp3",
+      "sizeBytes": 6924262,
+      "sha256": "e51a686f4ae1d7db408249b4933e7cdfa76ddb4ba66fb299addb6635599dfa79"
+    },
+    {
+      "path": "54.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/54.mp3",
+      "sizeBytes": 6736599,
+      "sha256": "67db050bcb73501806dee5f59fe56b9bdb332bec466046f95973217593299f29"
+    },
+    {
+      "path": "55.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/55.mp3",
+      "sizeBytes": 10122486,
+      "sha256": "5a298e9cfd5a2c3dec70348216eef19126d98b7213cabf248cf6488facd536ee"
+    },
+    {
+      "path": "56.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/56.mp3",
+      "sizeBytes": 9873800,
+      "sha256": "897bb7a3833f0e0e74055b5f9c5d11bc734d80c6943282f602b34e84e356c11a"
+    },
+    {
+      "path": "57.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/57.mp3",
+      "sizeBytes": 10926640,
+      "sha256": "0f69fcd13674b19ad816a81cb8c413be3bca1f77673481a99f57083b3e750f27"
+    },
+    {
+      "path": "58.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/58.mp3",
+      "sizeBytes": 9416135,
+      "sha256": "59272676cb77abc7f1907b01a50716c2cdf317460d516c3d6072eced7930287f"
+    },
+    {
+      "path": "59.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/59.mp3",
+      "sizeBytes": 9063378,
+      "sha256": "a9cffc7285e0dd6ba50c2bce8f47da775c5b19ee192ca83e1eebab25ba0ef589"
+    },
+    {
+      "path": "60.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/60.mp3",
+      "sizeBytes": 7215162,
+      "sha256": "a992c56bb5d430664ab8de85514235c9a516ede4f3b37d5983f36b6d9a2fe824"
+    },
+    {
+      "path": "61.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/61.mp3",
+      "sizeBytes": 4509712,
+      "sha256": "a49abcf48b945194c53dde3a4ec630b6900d2d7e56ebe6f9cfdbe17b91390531"
+    },
+    {
+      "path": "62.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/62.mp3",
+      "sizeBytes": 3484876,
+      "sha256": "393f079e6e29c5a4851731963158bc11e7643add0b5149809381c2a0079b3291"
+    },
+    {
+      "path": "63.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/63.mp3",
+      "sizeBytes": 3810466,
+      "sha256": "565241ce8ecf9f32da648aedec6d0c623aee7e3073d9ba67412c259229e84cfc"
+    },
+    {
+      "path": "64.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/64.mp3",
+      "sizeBytes": 4983678,
+      "sha256": "c5840ffcad1061a68f9ef426d99ea7efc3204e7b1475e16aa64d992d2446dc08"
+    },
+    {
+      "path": "65.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/65.mp3",
+      "sizeBytes": 5692119,
+      "sha256": "c956910b3cb506c654daede79256dc066197aea007723837ae2616e134a3791b"
+    },
+    {
+      "path": "66.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/66.mp3",
+      "sizeBytes": 5074375,
+      "sha256": "162667352c3e12dc8c01abae7ee75b0c7d42c66f6565388b6c1f3dd8729b7c73"
+    },
+    {
+      "path": "67.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/67.mp3",
+      "sizeBytes": 6240063,
+      "sha256": "d880d2d97da881880b0d71010f5bb104a7645069b8818692cc1b252d7f7bd168"
+    },
+    {
+      "path": "68.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/68.mp3",
+      "sizeBytes": 6727822,
+      "sha256": "51f71e97485eb8307147130c30060b522233f66620315494c85fec0272cdb336"
+    },
+    {
+      "path": "69.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/69.mp3",
+      "sizeBytes": 5813745,
+      "sha256": "3a75f9870ef759fe06e212e29dcecca905f508c97f8e29928dc5a2b702d11359"
+    },
+    {
+      "path": "70.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/70.mp3",
+      "sizeBytes": 4951077,
+      "sha256": "a7b57cb99c126f4fa79095924418e226329c8ba7a1e9bb1bfe982c99e9eb1af7"
+    },
+    {
+      "path": "71.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/71.mp3",
+      "sizeBytes": 4216723,
+      "sha256": "50cf2f0f1f055b0ef7372327f25f626e237a8797254fff537ed78fe51edd9cd6"
+    },
+    {
+      "path": "72.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/72.mp3",
+      "sizeBytes": 4806463,
+      "sha256": "ffe241919e5fcc6d5524af3360ce37ae01e3f4916de316521ede13bf258f47ee"
+    },
+    {
+      "path": "73.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/73.mp3",
+      "sizeBytes": 3689676,
+      "sha256": "1fe67972b6c641cd209ef690aee84574dcdcd578d3f5651192f60a7e6602a5d8"
+    },
+    {
+      "path": "74.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/74.mp3",
+      "sizeBytes": 5387426,
+      "sha256": "fd33bbb63fc13e48c67c5b23a7e4d7b2d780ef331b9ad55512c78cc4547f3f24"
+    },
+    {
+      "path": "75.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/75.mp3",
+      "sizeBytes": 3296795,
+      "sha256": "4ebd6e15dd6e26111664551caec1ff5ba2731b7a69d6b3684bc2658ba3896c01"
+    },
+    {
+      "path": "76.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/76.mp3",
+      "sizeBytes": 4844080,
+      "sha256": "de16622e079f18cf6437cc174fa6add696fbe2cc4faa528b04ca56d505e70a9c"
+    },
+    {
+      "path": "77.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/77.mp3",
+      "sizeBytes": 4540223,
+      "sha256": "656344cfe8eb9af0ad359ebb12bcaf50f42a4f7fe2414786f9d3a03ce2c298eb"
+    },
+    {
+      "path": "78.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/78.mp3",
+      "sizeBytes": 3834708,
+      "sha256": "4fd9278e828c5333aadaca22d4149d467f5999bae77c8fc821c3171097772251"
+    },
+    {
+      "path": "79.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/79.mp3",
+      "sizeBytes": 3668778,
+      "sha256": "00aa5685f1ce912ea640eef3319ea5ab66bb5efa15fc29873a279ac6ae5bab19"
+    },
+    {
+      "path": "80.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/80.mp3",
+      "sizeBytes": 3172661,
+      "sha256": "f2e6dc45fa2093d060d1fcda905a6c0d0b253df9676cfd7c1e76e8fb84cb99b4"
+    },
+    {
+      "path": "81.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/81.mp3",
+      "sizeBytes": 2437471,
+      "sha256": "4d803d3a2601957f13b81cfe62a1abdf7688801241b828ad8ab712c81d223b63"
+    },
+    {
+      "path": "82.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/82.mp3",
+      "sizeBytes": 1836863,
+      "sha256": "d12b14bc6051ee0d5961e6f9e00ebb21234be7f9f046230c0e9347b146b94e75"
+    },
+    {
+      "path": "83.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/83.mp3",
+      "sizeBytes": 4314525,
+      "sha256": "90f2d0557dbe92c3bc0cf56cc5cdbf5e99e6160cd111561a24ae1455a2ab9e29"
+    },
+    {
+      "path": "84.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/84.mp3",
+      "sizeBytes": 2323786,
+      "sha256": "268ebf3c57e332bbb2a2412a60f72dcc11e2959b81def0119bad9d51e2fd679f"
+    },
+    {
+      "path": "85.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/85.mp3",
+      "sizeBytes": 2511449,
+      "sha256": "fb402c5e1218f88d350b6d579e3d26767f9976b5211cc310c5b99c6bc0335c5b"
+    },
+    {
+      "path": "86.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/86.mp3",
+      "sizeBytes": 1414306,
+      "sha256": "38ef0c9a7623e64abefd943e0bdde520bbc5ef0e6f34c239fbf93b87b9ab7935"
+    },
+    {
+      "path": "87.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/87.mp3",
+      "sizeBytes": 1543874,
+      "sha256": "cad6864c8d38124c0ab069a1b1a076d5d7c11c864e07e21b01d60047adb62bf8"
+    },
+    {
+      "path": "88.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/88.mp3",
+      "sizeBytes": 1952220,
+      "sha256": "b3b79240058f9cab69eedafbe30ae7433849a9c276d93ba822077794425c4e24"
+    },
+    {
+      "path": "89.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/89.mp3",
+      "sizeBytes": 2851668,
+      "sha256": "d5ed6babba9602a6418cfe98e564b836984d410f38a88047c11b97b4edd0e7b4"
+    },
+    {
+      "path": "90.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/90.mp3",
+      "sizeBytes": 1663828,
+      "sha256": "590945629bce614d06807d6654b7467ce4487224721e6c00a8054aaa5ab8dad0"
+    },
+    {
+      "path": "91.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/91.mp3",
+      "sizeBytes": 1263423,
+      "sha256": "cbd6aa04966e9d3a62615ac788c7ded712450d080fe000fccd39dc639ceade01"
+    },
+    {
+      "path": "92.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/92.mp3",
+      "sizeBytes": 1627466,
+      "sha256": "e73706610e47e5926daf1e11c56116ecf3b68dbfd0ba088d577f769333a5f6a0"
+    },
+    {
+      "path": "93.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/93.mp3",
+      "sizeBytes": 952462,
+      "sha256": "6e78d9f8427f9f40c8871ea2083482ca6967260c2d5c4d7d65d3f3798afcb8f7"
+    },
+    {
+      "path": "94.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/94.mp3",
+      "sizeBytes": 583404,
+      "sha256": "58f14593728eb7b2f9e37dface18df6ce8a00bb363a82fb13aa4ae839846fb9b"
+    },
+    {
+      "path": "95.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/95.mp3",
+      "sizeBytes": 855077,
+      "sha256": "6f8bb55d158ead548236cbacb5eee9d04a67cd481efe51afa4046aadeb42b552"
+    },
+    {
+      "path": "96.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/96.mp3",
+      "sizeBytes": 1434369,
+      "sha256": "73289f131a913a47af155dc61594ef5c0af3dfa7571c3271ac0cce1a7debbfed"
+    },
+    {
+      "path": "97.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/97.mp3",
+      "sizeBytes": 600958,
+      "sha256": "b37493daa1c7ccf829713dedc6fb958dea248bbe7aba99ee8f06ef326a506433"
+    },
+    {
+      "path": "98.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/98.mp3",
+      "sizeBytes": 1877405,
+      "sha256": "68ea66b31c5ce69268572645d81328000a852f23a62ecf44ce1bff10271bd567"
+    },
+    {
+      "path": "99.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/99.mp3",
+      "sizeBytes": 837523,
+      "sha256": "b09659ad0facab54efeed0fef044b6a3d3823853a0d39b8bd0f0b6ecc9981c96"
+    },
+    {
+      "path": "100.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/100.mp3",
+      "sizeBytes": 954134,
+      "sha256": "a03f16500e924cfa4002364f2d9f603907b8c20dd94ae46d02d0ce06495aa24e"
+    },
+    {
+      "path": "101.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/101.mp3",
+      "sizeBytes": 836270,
+      "sha256": "86eb7b53032a2a9c0b6134136df5d20950a2525a512b1cde2ed49f90d9b9c6aa"
+    },
+    {
+      "path": "102.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/102.mp3",
+      "sizeBytes": 812446,
+      "sha256": "14dd8d87d91e41b99515068d8c30c7e140e3ab10195ca531d1ec6e9939261a10"
+    },
+    {
+      "path": "103.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/103.mp3",
+      "sizeBytes": 350183,
+      "sha256": "53895b8cb561329b7b7694644f322ba5f21f9a97444038239733d844445e41f6"
+    },
+    {
+      "path": "104.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/104.mp3",
+      "sizeBytes": 739303,
+      "sha256": "8ce21788475893799b5eefa1f1978c2f22c5ad2df3db6c5a9951d312c77b3e20"
+    },
+    {
+      "path": "105.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/105.mp3",
+      "sizeBytes": 649442,
+      "sha256": "4424680081e983121484db8ff41a26f23b459bc539aa45a1f91506b2c51417b3"
+    },
+    {
+      "path": "106.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/106.mp3",
+      "sizeBytes": 572120,
+      "sha256": "dd3dbd174e59cd86d347f8a268eac2a3d90cc0a5b51bff0c3190b2e41f51fbb0"
+    },
+    {
+      "path": "107.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/107.mp3",
+      "sizeBytes": 722167,
+      "sha256": "5ede8fec85399099672ecd69454268b0f4d0164dd553ff7f6d6662f33c3aa409"
+    },
+    {
+      "path": "108.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/108.mp3",
+      "sizeBytes": 289206,
+      "sha256": "d61306e903b507006f5c9a642f848578ad579bce03c473bbcdc0c29a62163400"
+    },
+    {
+      "path": "109.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/109.mp3",
+      "sizeBytes": 593436,
+      "sha256": "9ebb2c6c6eada24c0b2ffd2978bfb1a25e35d223297ca24b3ace5f04b7676b2e"
+    },
+    {
+      "path": "110.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/110.mp3",
+      "sizeBytes": 460525,
+      "sha256": "3dc8575db32736443ad359a96679c8481e0cbed73dcf4881d0f41df7a5a6cbfa"
+    },
+    {
+      "path": "111.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/111.mp3",
+      "sizeBytes": 485184,
+      "sha256": "836c90bfde18190755d37135f1fa11224bac6fb8b114fa9c98b35446dc6dd815"
+    },
+    {
+      "path": "112.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/112.mp3",
+      "sizeBytes": 299610,
+      "sha256": "c73a336bc92e5e0653c0482c1b85d4e299a165072b7fec7cc1f18fbf86d388d6"
+    },
+    {
+      "path": "113.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/113.mp3",
+      "sizeBytes": 463868,
+      "sha256": "b60073747df90978a5398c1d38e8949f3c6d7294548ed7790de6b9253c2f9fa9"
+    },
+    {
+      "path": "114.mp3",
+      "url": "https://content.qaloonhifz.app/audio/ali-ibn-abdulrahman-al-hudhaify-qaloon/v1/114.mp3",
+      "sizeBytes": 662399,
+      "sha256": "5b851cb50b130c4f7c702405ae73fabd7428c8b5c50db4dd6e4dddeb9ba103fb"
+    }
+  ]
+}
