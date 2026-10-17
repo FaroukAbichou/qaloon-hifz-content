@@ -7,37 +7,37 @@
       "name": "audio-part1",
       "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-part1.zip",
       "sizeBytes": 80944952,
-      "sha256": "a510c90fbf8a1feebf0beac9359c6853e5d36376fa5ee17324b29ec2afd91bf7"
+      "sha256": "f769ecb287262ec38a691f2ee0bfcdbe7e594323b9cb3285ad0b210485b39291"
     },
     {
       "name": "audio-part2",
       "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-part2.zip",
       "sizeBytes": 89097517,
-      "sha256": "d39d8fa3d35fb06aa938c3e44ee836a06a397633abf98c0362f91d203d67dcb4"
+      "sha256": "7db601de5a894e4a146ccb3b47159daa02a14154e4cce80908f92ef3bb119154"
     },
     {
       "name": "audio-part3",
       "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-part3.zip",
       "sizeBytes": 91357084,
-      "sha256": "9b993c8a17c4a1fa50bbd50884a16b9cb6aeaf876d4ae00a025e8f9eadd0b171"
+      "sha256": "37821dec89d728c31eae99e9be551724eedbd75e8c36359378ecb6be638cf407"
     },
     {
       "name": "audio-part4",
       "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-part4.zip",
       "sizeBytes": 87158701,
-      "sha256": "2f959a11cf3015c81251d481b17dc235cf8fb70095c927c54ac248838eb4a835"
+      "sha256": "a374f3140b928c03d508412d606ed092b336c36de9d9ba4c37a5d832f49bc6bc"
     },
     {
       "name": "audio-part5",
       "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-part5.zip",
       "sizeBytes": 92130713,
-      "sha256": "f47cdad9a78fd456ae02ae934454dded6447152ccd396702f2bc5cf0675aa089"
+      "sha256": "76ab675fa53801dd58bfd089a7be6d4eaf698af146780682b51b6a62a208bbce"
     },
     {
       "name": "audio-part6",
       "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-part6.zip",
       "sizeBytes": 16697549,
-      "sha256": "f25dc116631855170b2bc2096b4cccbb51d72fc0dacf525e0d747412f81f7423"
+      "sha256": "f2ca14f68bb472a0204cfc8c2c31d03f7b69ca0b28fc09cf411dfffb701ecf63"
     }
   ],
   "files": []
