@@ -118,5 +118,12 @@
       "sha256": "7e0d9614d00315668f09f0f6708f4875e6506c13705ca7b7dda92d7a2c5428ba"
     }
   ],
-  "files": []
+  "files": [
+    {
+      "path": "timing.json",
+      "url": "https://content.qaloonhifz.app/audio/waleed-al-naehi-qaloon/v1/timing.json",
+      "sizeBytes": 271931,
+      "sha256": "2aa9eb0828143554ef3ca897c2ac433a2704f9f5dfbf7b6340e19aa724c8d7c3"
+    }
+  ]
 }
