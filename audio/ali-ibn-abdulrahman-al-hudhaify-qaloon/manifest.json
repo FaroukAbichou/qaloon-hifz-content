@@ -2,7 +2,128 @@
   "id": "ali-ibn-abdulrahman-al-hudhaify-qaloon",
   "kind": "audio",
   "version": 1,
-  "packs": [],
+  "packs": [
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part1",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part1.zip",
+      "sizeBytes": 55550998,
+      "sha256": "f873c7d10d2858bb03181df86f742980e7ce40439d4b388e13aff9c64b7b67c5"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part2",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part2.zip",
+      "sizeBytes": 67682055,
+      "sha256": "2cf635286f0e0fb0d9435b081bc4008d9406838bf05cfde18b12a6c8eb44eb98"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part3",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part3.zip",
+      "sizeBytes": 65802593,
+      "sha256": "a435f42dda4faa94141077c25957f98ff0ecf232a7147c858dc32e33db6a1488"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part4",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part4.zip",
+      "sizeBytes": 50902771,
+      "sha256": "7f1365bb7442a5311483c43e4d9e1be13c12f807e161125b051a6e5ab63d92fd"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part5",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part5.zip",
+      "sizeBytes": 55630578,
+      "sha256": "303248af4ceabe5c828f539937f627c35364da43391c49f2734c980a83ffab7d"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part6",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part6.zip",
+      "sizeBytes": 86828631,
+      "sha256": "b1754dd0d085f47d43113f433806bfbd09b0b0c23710dea734302018a5bd33ea"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part7",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part7.zip",
+      "sizeBytes": 81328355,
+      "sha256": "9a227b1201d05ad6fee12e4b9878e1983f91cb61ac8ddc94a6ad3ba3273f0cf3"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part8",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part8.zip",
+      "sizeBytes": 83743391,
+      "sha256": "b327b6cf755647a1034d8adceeecd52a1c60f9ee134466977843106dd5c2109f"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part9",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part9.zip",
+      "sizeBytes": 67068589,
+      "sha256": "2023212a3a44ff87a7e63385ae32f52c8862908d24c53cc7c960365ea87e4d85"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part10",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part10.zip",
+      "sizeBytes": 71499268,
+      "sha256": "6fe6f3aab8835f1da7a5f67edfb46c9685ee74be6b204f55167fe9f3147e6177"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part11",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part11.zip",
+      "sizeBytes": 70150918,
+      "sha256": "20a0567dc3e83fea1eb41dc70f8710bd7a870c5677f825a3268a9390d3faefd9"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part12",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part12.zip",
+      "sizeBytes": 64741896,
+      "sha256": "960a9727ad5b0bfc7481af6d84733c23fb75fbfc70da538b1acb15adef4ec37a"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part13",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part13.zip",
+      "sizeBytes": 80044105,
+      "sha256": "ce2d42a5c1d342bce00b668f4c163318ec359d79b4112cec7e33395fbaa9a75a"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part14",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part14.zip",
+      "sizeBytes": 78974242,
+      "sha256": "0692c54b1c50b7547f6e382d1b30296f07678e8fe9bd4e2fad6d91fb7f8fdbcc"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part15",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part15.zip",
+      "sizeBytes": 82671216,
+      "sha256": "ab33dade714431b424688600e1d4184804a8e8b0a3e9a59db3ef9e799fbd24cc"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part16",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part16.zip",
+      "sizeBytes": 78285710,
+      "sha256": "5a98fcd51e779fb6c4a62fe1c5db6a6761632e84f73179b876039c21bbaddcb2"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part17",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part17.zip",
+      "sizeBytes": 90567754,
+      "sha256": "950c5203b9f64ec00e8a9e01c9317ece036081a7cecf6eee3c912e127c9ce1a8"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part18",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part18.zip",
+      "sizeBytes": 91274394,
+      "sha256": "e2d3862c904bfd44ce13c207b0421ccaa43cca9852ab788f655c7099f31ca097"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part19",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part19.zip",
+      "sizeBytes": 91723590,
+      "sha256": "40321d2fb895c64b9644c19ea0f53cfddf8a1a01ec5ac80a9977a3f049a6933a"
+    },
+    {
+      "name": "audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part20",
+      "url": "https://github.com/FaroukAbichou/qaloon-hifz-content/releases/download/content-v1/audio-ali-ibn-abdulrahman-al-hudhaify-qaloon-part20.zip",
+      "sizeBytes": 22781105,
+      "sha256": "10288afa902caa6fbb8b4a5372056e1b16393eba9a61a786e5298cd2ffceca00"
+    }
+  ],
   "files": [
     {
       "path": "timing.json",
