@@ -64,5 +64,12 @@
       "sha256": "81b4a8a4b54ef59a740dcb3d16dd371a897b816b1a5fd88c3aecdd9dde556f37"
     }
   ],
-  "files": []
+  "files": [
+    {
+      "path": "timing.json",
+      "url": "https://content.qaloonhifz.app/audio/abdulhamid-al-qariu-qaloon/v1/timing.json",
+      "sizeBytes": 265761,
+      "sha256": "bcc180ddb210d4dfbfc070fe44d12a754372cdd0505f0381be3b5d2fdc6f7108"
+    }
+  ]
 }
