@@ -40,5 +40,12 @@
       "sha256": "f2ca14f68bb472a0204cfc8c2c31d03f7b69ca0b28fc09cf411dfffb701ecf63"
     }
   ],
-  "files": []
+  "files": [
+    {
+      "path": "timing.json",
+      "url": "https://content.qaloonhifz.app/audio/ahmad-al-tarablsi-qaloon/v1/timing.json",
+      "sizeBytes": 209190,
+      "sha256": "5b7e44c4f03a56b74b8a527cc359c5a3d6289cfc5fdec3dce782eb71beebbdec"
+    }
+  ]
 }
